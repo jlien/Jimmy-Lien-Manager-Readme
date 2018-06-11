@@ -1,6 +1,6 @@
 # About Me
 
-I'm a reformed banker. Finance MBA by education. I've been in software since ~2009, although I started with Basic in elementary school and have taken (C/C++/Java and other CS classes in middle/high school/college). Since college, I've been involved in real estate in one way or another (underwriting loans, landlord, or building software).
+I'm a reformed banker. Finance MBA by education. I've been in software since ~2009, although I started with Basic in elementary school and have taken C/C++/Java and other CS classes in middle/high school/college. Since college, I've been involved in real estate in one way or another (underwriting loans, landlord, or building software).
 
 I have 3 kiddos.
 

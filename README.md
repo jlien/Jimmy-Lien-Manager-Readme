@@ -8,11 +8,11 @@ I am stupidly passionate about writing good software.
 
 I will occassionally drop an F-bomb in a meeting.
 
-In software I've worked as a consultant at Arcweb Technologies, Lead at ProctorU, CTO/Cofounder at TenantLoop (acquired), and Director of Engineering - Mobile at Buildium.
+In software I've worked as a consultant at [Arcweb Technologies](https://arcweb.co/), Lead at [ProctorU](https://proctoru.com), CTO/Cofounder at [TenantLoop](https://angel.co/tenantloop) (acquired), and Director of Engineering - Mobile at [Buildium](https://buildium.com).
 
 # Values
 
-Health First. Family Second. Work Third. Without health, there is no family. With a family in disarray work is highly affected. Make sure the first two are in good shape.
+Health First. Family Second. Work Third. Without health, there is no family. With a family in disarray, your work is highly affected. Make sure the first two are in good shape.
 
 I've been sick since 2014 with mercury poisoning so my values above are shaped by that experience.
 
@@ -40,7 +40,7 @@ Given the above, you will be thrown into the deep end. Let me know if you've rea
 
 I believe that leadership is all about serving the people who work for you. That doesn't necessarily mean that I'll do whatever you ask me to do. My objective is to ensure that what you want is aligned with the team's, department's, and company's goals. There may be short and long-term considerations along with UX, marketing, or other stakeholders. You will be in good shape if you can craft a good story/proposal that supports all those things. I can help you create that story/proposal.
 
-Overally, my biggest goal is to develop people. In the past I've had a few great mentors, but few good managers. I try to be the manager, that I wish I would have had when I was at other companies or in banking.
+Overally, my biggest goal is to develop people. In the past I've had a few great mentors, but few good managers. I try to be the manager that I wish I would have had when I was at other companies.
 
 # Feedback
 
@@ -54,12 +54,12 @@ I don't really like receiving public recognition, but I do... sometimes. Weird r
 
 # One on Ones
 
-Our 1-1s are editable by you. Initially I would insist on weekly 30 minutes (at least), but we can control cadence as you see fit after the first couple months.
+Our 1-1s are editable by you. Initially I would insist on 30 minutes (at least) weekly, but we can control cadence as you see fit after the first couple months.
 
 One-on-Ones:
 * Shouldn't really be status updates unless you have something you want to share
 * Should be directed by you. Have a list of items you want to talk about. Keep a running doc.
-* Should be oriented around mid-long term issues, projects, goals you want to accomplish
+* Should be oriented around mid to long term issues, projects, and goals you want to accomplish
 * Should be a way for me to learn more about how I can help you progress in your career
 
 # Open and Honest

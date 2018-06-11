@@ -24,7 +24,7 @@ I manage individuals and managers. My degree of involvement varies based on the 
 
 # Availability
 
-Generally, I try to block my schedule with meetings in the morning and afternoons to get my head down to work. I use the Eisenhower matrix to prioritize work. If you need me to work on something to unblock you, please let me know so I can place it in my `Urgent and Important` column.
+Generally, I try to block my schedule with meetings in the morning and afternoons to get my head down to work. I use the [Eisenhower matrix](https://jamesclear.com/eisenhower-box) to prioritize work. If you need me to work on something to unblock you, please let me know so I can place it in my `Urgent and Important` column.
 
 I work remotely fairly often. This is mostly because my direct reports are in Boston and I have meetings most of the day. I value the flexibility of remote work and generally don't care where you work as long as it doesn't affect your ability to get shit done. There are definite downsides to not being able to tap someone on the shoulder or whiteboard in-real-life, so I think colocation is usually a good thing.
 

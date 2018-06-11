@@ -40,7 +40,7 @@ Given the above, you will be thrown into the deep end. Let me know if you've rea
 
 I believe that leadership is all about serving the people who work for you. That doesn't necessarily mean that I'll do whatever you ask me to do. My objective is to ensure that what you want is aligned with the team's, department's, and company's goals. There may be short and long-term considerations along with UX, marketing, or other stakeholders. You will be in good shape if you can craft a good story/proposal that supports all those things. I can help you create that story/proposal.
 
-Overally, my biggest goal is to develop people. In the past I've had a few great mentors, but few good managers. I try to be the manager that I wish I would have had when I was at other companies.
+Overall, my biggest goal is to develop people. In the past I've had a few great mentors, but few good managers. I try to be the manager that I wish I would have had when I was at other companies.
 
 # Feedback
 

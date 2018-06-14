@@ -69,3 +69,7 @@ I'm stupidly transparent. I probably overshare beyond what I'm supposed to.
 # Help improve this readme!
 
 This is a living document. Please send me a note on twitter @jameslien or through other channels if you know them.
+
+# Like what you see?
+
+Join me at [Buildium](https://github.com/buildium) where I'm helping to shape an industry leading communication and mobile experience for property managers and their residents!

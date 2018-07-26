@@ -8,6 +8,8 @@ I am stupidly passionate about writing good software.
 
 I will occassionally drop an F-bomb in a meeting.
 
+I am a slow decision maker so I may be quiet and listen for a while to help create a mental model of a problem. I often let a problem run in my mental background queue to process for a few hours or days to let my brain catch up and formulate a solution. In that way, I do not necessarily make great decisions when an extremely time-sensitive solution is needed or in a committe where a decision is needed quickly to move forward. If a decision is needed quickly, then it is better to provide me early context about a problem so I can let it build up slowly.
+
 In software I've worked as a consultant at [Arcweb Technologies](https://arcweb.co/), Lead at [ProctorU](https://proctoru.com), CTO/Cofounder at [TenantLoop](https://angel.co/tenantloop) (acquired), and Director of Engineering - Mobile at [Buildium](https://buildium.com).
 
 # Values
